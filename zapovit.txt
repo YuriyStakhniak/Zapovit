@@ -1,2 +1,9 @@
 Як умру, то поховайте // Nick Rybak
+<<<<<<< HEAD
 Мене на могилі // Stakhniak
+=======
+Мене на могилі, // Nick Rybak
+Серед степу широкого, // Oleksandr Mazur
+На Вкраїні милій, // Oleksandr Mazur
+>>>>>>> ffa509c491a0842d8a56c3d64eabc79630935e7b
+І Дніпро, і кручі
